@@ -1,0 +1,10 @@
+com/jon/servlets/LoginServlet.class
+com/jon/Util.class
+com/jon/entities/User.class
+com/jon/servlets/ServerSentMessageEventServlet.class
+com/jon/entities/MessageData.class
+com/jon/servlets/ChatServlet.class
+com/jon/TranslateText.class
+com/jon/filters/ApplicationLoginFilter.class
+com/jon/entities/MessageItem.class
+com/jon/servlets/TranslateServlet.class
